@@ -1,0 +1,1 @@
+[07-Jan-2021 13:10:10 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Http as Http because the name is already in use in /home/aimtzqij/edxchange-backend/services/activity/app/Http/Controllers/ActivityController.php on line 18
